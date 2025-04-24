@@ -163,6 +163,7 @@ For very large repository collections:
 - Branch-specific commit history analysis
 
 ## License
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) for details.
 
 ## Acknowledgments
@@ -170,3 +171,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) f
 - Developed using insights from Git's commit tracking capabilities
 - Inspired by the need for cross-repository contribution visibility
 - Built with Python's powerful data processing ecosystem
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
